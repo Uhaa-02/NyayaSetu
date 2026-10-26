@@ -1,0 +1,5 @@
+email,name,role,bureau,region
+chairman.name@example.org,Full Name,chairman,,
+head.name@example.org,Full Name,bureau_head,PGRC,
+officer.name@example.org,Full Name,officer,RB,
+regional.name@example.org,Full Name,regional,,South Central
